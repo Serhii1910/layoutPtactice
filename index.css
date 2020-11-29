@@ -45,18 +45,19 @@ body {
 .someInfo3 {
 	padding:20px;
 	text-align:center;
+	padding:20px;
+}
+.someInfo3  div {
+	width: 30vw;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
 }
 .someInfo3  #someInfo3-1 {
-	display: inline-block;
-	width: 33.33%;
-}
-.someInfo3  #someInfo3-2 {
-	display: inline-block;
-	width: 33.33%;
 	background:#926239;
-    color:#fff;
+	color:#fff;
 }
 .someInfo3  #someInfo3-3 {
-	display: inline-block;
-	width: 33.33%;
+	background:#926239;
+	color:#fff;
 }
